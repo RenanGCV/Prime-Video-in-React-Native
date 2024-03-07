@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#232F3E"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8bfc711a-c1e0-42f8-abe6-1a5eee55d353"
+      }
+    },
+    "owner": "renan.gcv"
   }
 }
